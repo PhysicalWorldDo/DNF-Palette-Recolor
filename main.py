@@ -51,7 +51,7 @@ class MainApplication(tk.Tk):
         self.setup_ui()
         
         # 5. 默认显示首页 (比如关于页)
-        self.show_page("about")
+        # Packaged single-page launchers open the selected page explicitly.
         
     def create_icon(self):
         # 简单的程序图标
