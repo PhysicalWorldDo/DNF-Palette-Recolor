@@ -1,0 +1,14 @@
+# Runtime/user config files
+settings.json
+music_tool_settings.json
+run_config.json
+timer_config.json
+train_ui_settings.json
+config/
+data/
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+build/
+dist/
